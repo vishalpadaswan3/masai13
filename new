@@ -1,4 +1,5 @@
 var sum = 25;
 var count = 5;
+var num = 15;
 
-console.log(sum > count);
+console.log(sum > count && sum > num);
