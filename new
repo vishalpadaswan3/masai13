@@ -1,0 +1,4 @@
+var sum = 25;
+var count = 5;
+
+console.log(sum > count);
