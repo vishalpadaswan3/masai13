@@ -2,4 +2,8 @@ var sum = 25;
 var count = 5;
 var num = 15;
 
-console.log(sum > count && sum > num);
+if (sum > count && sum > num){
+console.log("Yes");
+}else {
+console.log("No");
+}
